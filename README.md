@@ -25,3 +25,8 @@ processors=4
 swap=2GB
 
 8) Instalar o Docker
+
+
+
+
+https://gist.github.com/carlosfgti/12d9f174b5727afd1d563fb4e278854a
